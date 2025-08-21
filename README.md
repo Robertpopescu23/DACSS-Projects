@@ -31,7 +31,7 @@ Implements a **Toy Object Request Broker (ToyORB)**:
   - **MathServer:** Provides arithmetic operations.
 - Focus: understanding the broker pattern for distributed object-oriented applications.
 
-### 4. `Assignment5`
+### 4. `Data-Access-Pattern`
 Contains **two projects**:
 
 - **HoroscopeApp:** Uses the DAO pattern to read students from XML or SQL and predict daily horoscope.  
@@ -50,10 +50,15 @@ Contains **two projects**:
 ## Repository Structure (branch-independent overview)
 
 DACSS-Projects/
+\n
 ├── Fundamentals-Architectural-Styles/ # Project subfolders for different architectural styles
+\n
 ├── Reflection-Pattern/ # Java reflection tool
+\n
 ├── Broker-Pattern/ # ToyORB project
+\n
 ├── Assignment5/ # HoroscopeApp & ORM
+\n
 └── README.md # This overview
 
 
