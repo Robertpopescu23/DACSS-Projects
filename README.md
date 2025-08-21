@@ -50,17 +50,12 @@ Contains **two projects**:
 ## Repository Structure (branch-independent overview)
 
 DACSS-Projects/
-\n
-├── Fundamentals-Architectural-Styles/ # Project subfolders for different architectural styles
-\n
-├── Reflection-Pattern/ # Java reflection tool
-\n
-├── Broker-Pattern/ # ToyORB project
-\n
-├── Assignment5/ # HoroscopeApp & ORM
-\n
-└── README.md # This overview
 
+- Fundamentals-Architectural-Styles/    # Project subfolders for different architectural styles
+- Reflection-Pattern/                    # Java reflection tool
+- Broker-Pattern/                        # ToyORB project
+- Assignment5/                           # HoroscopeApp & ORM
+- README.md                              # This overview
 
 ---
 
