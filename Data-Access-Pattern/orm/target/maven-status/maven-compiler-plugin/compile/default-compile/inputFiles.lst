@@ -1,0 +1,11 @@
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/Main.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/annotations/Column.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/annotations/Entity.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/annotations/Id.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/annotations/Inheritance.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/annotations/ManyToOne.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/annotations/OneToMany.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/generator/ORMSchemaGenerator.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/model/Department.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/model/Employee.java
+/Users/popescurobert/Desktop/SSD/orm/src/main/java/org/example/model/Person.java

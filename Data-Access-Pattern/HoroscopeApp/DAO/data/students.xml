@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<students>
+    <student id = "5" name = "Abigail" surname = "Smith" />
+    <student id = "6" name = "Micea" surname="Vlad" />
+    <student id = "7" name=  "Moldova" surname="Bogdan"/>
+    <student id = "8" name = "maria" surname="lupeni"/>
+</students>
