@@ -1,0 +1,27 @@
+John, Laptop
+Ann, Book
+Lisa, Camera
+Robert, TV
+Emily, Headphones
+Daniel, Tablet
+Sophia, Smartwatch
+Michael, Phone
+Emma, Speaker
+David, Monitor
+Olivia, Keyboard
+James, Mouse
+Charlotte, Gaming Console
+Benjamin, Printer
+Amelia, Router
+Ethan, Microphone
+Isabella, VR Headset
+Mason, Laptop
+Mia, E-Reader
+Alexander, Smart Light
+Amelia, Hard Drive
+Charlotte, SSD
+David, Water Purifier
+Lily, CPU
+Darian, GPU
+Emmett, Building Blocks
+Isabella, Router

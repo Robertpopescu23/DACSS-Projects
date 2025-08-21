@@ -1,0 +1,105 @@
+John, Laptop, ok, PICTURE
+Mary, Phone, @#$%), IMAGE
+Peter, Phone, GREAT, ManyPictures
+Ann, Book, So GOOD, Image
+Alex, Tablet, nice product, screenshot
+Sophie, Headphones, AMAZING SOUND, IMAGE
+Lucas, Monitor, http://competitor.com, Image
+Daniel, Mouse, works well, screenshot
+Emma, Keyboard, LOVE IT, Picture
+Oliver, Camera, Terrible, IMAGE
+Mia, Speaker, fantastic sound, PICTURE
+Sophia, Microphone, http://otherstore.com good, IMAGE
+Liam, Chair, really bad quality, Picture
+Noah, Desk, PERFECT, IMAGE
+Ella, TV, BROKEN screen, Picture
+James, Printer, not working properly, screenshot
+Ava, Scanner, so fast!!, IMAGE
+Isabella, Router, slow connection, IMAGE
+Ethan, USB Cable, useful, Picture
+Amelia, Hard Drive, failed after a week, IMAGE
+Charlotte, SSD, very fast, screenshot
+William, RAM, excellent performance, Picture
+Benjamin, Power Bank, useful while traveling, IMAGE
+Lucas, Gaming Console, http://scam.com great console, Picture
+Mason, Graphics Card, powerful, screenshot
+Logan, Motherboard, bad BIOS, IMAGE
+Lily, CPU, overheats, IMAGE
+Zoe, Cooling Fan, keeps system cool, screenshot
+Henry, PSU, does its job, Picture
+Jack, VR Headset, immersive, IMAGE
+Aiden, Game Controller, http://gameshop.com best controller, Picture
+Harper, Projector, very bright, IMAGE
+Grace, Air Conditioner, COOLS fast, Picture
+Carter, Heater, warms up quick, IMAGE
+Chloe, Washing Machine, cleans well, screenshot
+Matthew, Dryer, saves time, IMAGE
+Daniel, Oven, cooks evenly, Picture
+Sebastian, Blender, blends well, IMAGE
+Ella, Microwave, heats up quickly, IMAGE
+Madison, Toaster, burns bread, Picture
+Levi, Coffee Maker, best coffee ever, IMAGE
+Victoria, Juicer, extracts juice well, screenshot
+David, Water Purifier, great water taste, IMAGE
+Natalie, Mattress, so comfortable, Picture
+Jonathan, Pillow, too soft, IMAGE
+Dylan, Bedsheet, high quality, screenshot
+Stella, Blanket, keeps warm, IMAGE
+Aubrey, Jacket, stylish and warm, Picture
+Hannah, Sneakers, comfortable fit, IMAGE
+Gabriel, Backpack, spacious, IMAGE
+Lillian, Handbag, elegant design, Picture
+Leo, Watch, stylish and functional, IMAGE
+Isaac, Smartwatch, excellent battery, IMAGE
+Hudson, Wireless Earbuds, bad bass, Picture
+Savannah, Bluetooth Speaker, powerful sound, IMAGE
+Bella, Laptop Stand, ergonomic, IMAGE
+Eleanor, Desk Lamp, bright light, Picture
+Lincoln, Ceiling Fan, silent operation, IMAGE
+Aria, Vacuum Cleaner, very efficient, IMAGE
+Eli, Robot Vacuum, automatic cleaning, Picture
+Samantha, Home Security Camera, good resolution, IMAGE
+Jaxon, Door Lock, easy installation, screenshot
+Aurora, Electric Toothbrush, cleans well, IMAGE
+Connor, Hair Dryer, quick drying, Picture
+Paisley, Shaver, smooth shave, IMAGE
+Ezra, Beard Trimmer, precise trimming, IMAGE
+Penelope, Perfume, nice scent, Picture
+Easton, Deodorant, long-lasting, IMAGE
+Nora, Shampoo, smells good, IMAGE
+Kayden, Conditioner, softens hair, Picture
+Ariana, Body Wash, refreshing, IMAGE
+Colton, Moisturizer, smooth skin, IMAGE
+Everly, Lip Balm, heals cracked lips, Picture
+Jose, Sunscreen, protects well, IMAGE
+Violet, Face Mask, gentle on skin, IMAGE
+Aaron, Makeup Kit, high quality, Picture
+Sadie, Nail Polish, beautiful color, IMAGE
+Asher, Razor, close shave, IMAGE
+Hazel, Toothpaste, fresh breath, Picture
+Roman, Mouthwash, kills bacteria, IMAGE
+Peyton, Hand Soap, foamy, IMAGE
+Mila, Detergent, cleans clothes well, Picture
+Charlie, Floor Cleaner, removes stains, IMAGE
+Blake, Dish Soap, cuts grease, IMAGE
+Alice, Disinfectant, strong protection, Picture
+Xavier, Air Freshener, smells great, IMAGE
+Joseph, Trash Can, durable, IMAGE
+Scarlett, Paper Towels, absorbent, Picture
+Landon, Tissues, soft, IMAGE
+Kennedy, Notebook, great pages, IMAGE
+Ezekiel, Pen, smooth writing, Picture
+Elena, Pencil, erases well, IMAGE
+Ryker, Markers, vibrant colors, IMAGE
+Julian, Sketchbook, high-quality paper, Picture
+Delilah, Paint Set, easy to use, IMAGE
+Brayden, Brushes, soft bristles, IMAGE
+Melanie, Coloring Book, fun for kids, Picture
+Jason, Puzzle, challenging, IMAGE
+Jade, Board Game, great fun, IMAGE
+Riley, Toy Car, fast, Picture
+Parker, Teddy Bear, soft, IMAGE
+Brielle, Doll, beautiful, IMAGE
+Camila, Action Figure, detailed design, Picture
+Emmett, Building Blocks, creative play, IMAGE
+Darian, GPU, SO GOOD, IMAGE
